@@ -1,31 +1,27 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: amblerapp
+repo: status-rss
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: RSSBox
+    url: https://rssbox.ambler.app/
+  - name: RSSBox (Render)
+    url: $RSSBox_Render
+  - name: RSSHub
+    url: https://rsshub.ambler.app/
+  - name: RSSHub (Render)
+    url: $RSSHub_Render
+  - name: RSS-Bridge
+    url: https://rssbridge.ambler.app/
+  - name: RSS-Bridge (Render)
+    url: $RSS-Bridge_Render
+  - name: Reddit-RSS
+    url: https://reddit-rss.ambler.app/
+  - name: Reddit-RSS (Render)
+    url: $Reddit-RSS_Render
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  cname: status-rss.ambler.app
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  name: RSS Feed Generator Status | Ambler App
+  introTitle: "**Upptime** for RSS Feed Generator"
+  introMessage: RSS 피드제작기 모니터
