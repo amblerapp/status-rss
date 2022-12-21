@@ -20,7 +20,7 @@ sites:
     url: $RedditRSS_Render
 
 status-website:
-  cname: status-rss.ambler.app
+  cname: rss.status.ambler.app
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: RSS Feed Generator Status | Ambler App
   introTitle: "**Upptime** for RSS Feed Generator"
