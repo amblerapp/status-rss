@@ -5,19 +5,19 @@ sites:
   - name: RSSBox
     url: https://rssbox.ambler.app/
   - name: RSSBox (Render)
-    url: $RSSBox_Render
+    url: $RSSBOX_RENDER
   - name: RSSHub
     url: https://rsshub.ambler.app/
   - name: RSSHub (Render)
-    url: $RSSHub_Render
+    url: $RSSHUB_RENDER
   - name: RSS-Bridge
     url: https://rssbridge.ambler.app/
   - name: RSS-Bridge (Render)
-    url: $RSSBridge_Render
+    url: $RSSBRIDGE_RENDER
   - name: Reddit-RSS
     url: https://reddit-rss.ambler.app/
   - name: Reddit-RSS (Render)
-    url: $RedditRSS_Render
+    url: $REDDITRSS_RENDER
 
 status-website:
   cname: rss.status.ambler.app
