@@ -13,11 +13,11 @@ sites:
   - name: RSS-Bridge
     url: https://rssbridge.ambler.app/
   - name: RSS-Bridge (Render)
-    url: $RSS-Bridge_Render
+    url: $RSSBridge_Render
   - name: Reddit-RSS
     url: https://reddit-rss.ambler.app/
   - name: Reddit-RSS (Render)
-    url: $Reddit-RSS_Render
+    url: $RedditRSS_Render
 
 status-website:
   cname: status-rss.ambler.app
