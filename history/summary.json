@@ -4,27 +4,29 @@
     "url": "https://rssbox.ambler.app/",
     "icon": "https://icons.duckduckgo.com/ip3/rssbox.ambler.app.ico",
     "slug": "rss-box",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 429,
     "timeDay": 402,
     "timeWeek": 429,
     "timeMonth": 429,
     "timeYear": 429,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-27": 2
+    }
   },
   {
     "name": "RSSBox (Render)",
     "url": "$RSSBOX_RENDER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-box-render",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 373,
     "timeMonth": 373,
     "timeYear": 373,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-27": 0
+    }
   },
   {
     "name": "RSSHub",
