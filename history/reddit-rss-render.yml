@@ -1,7 +1,7 @@
 url: $REDDITRSS_RENDER
-status: down
-code: 429
-responseTime: 5340
-lastUpdated: 2023-09-25T04:34:59.558Z
+status: up
+code: 200
+responseTime: 592
+lastUpdated: 2023-09-25T04:42:15.584Z
 startTime: 2022-12-21T15:57:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
