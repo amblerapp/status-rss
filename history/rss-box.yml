@@ -1,7 +1,7 @@
 url: https://rssbox.ambler.app/
-status: up
-code: 200
-responseTime: 236
-lastUpdated: 2023-10-30T23:16:49.303Z
+status: down
+code: 502
+responseTime: 796
+lastUpdated: 2023-10-31T13:28:48.731Z
 startTime: 2022-12-21T15:57:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
