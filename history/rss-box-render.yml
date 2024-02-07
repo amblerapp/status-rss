@@ -1,7 +1,7 @@
 url: $RSSBOX_RENDER
-status: down
-code: 503
-responseTime: 169
-lastUpdated: 2024-02-07T12:52:05.252Z
+status: up
+code: 200
+responseTime: 97
+lastUpdated: 2024-02-07T13:18:22.329Z
 startTime: 2022-12-21T15:57:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
