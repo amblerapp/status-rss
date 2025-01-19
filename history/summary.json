@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 338,
-    "timeDay": 366,
-    "timeWeek": 324,
-    "timeMonth": 280,
-    "timeYear": 287,
+    "timeDay": 224,
+    "timeWeek": 327,
+    "timeMonth": 279,
+    "timeYear": 288,
     "dailyMinutesDown": {
       "2024-09-09": 44,
       "2024-02-07": 26
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 187,
-    "timeDay": 220,
-    "timeWeek": 213,
-    "timeMonth": 197,
+    "timeDay": 233,
+    "timeWeek": 218,
+    "timeMonth": 200,
     "timeYear": 187,
     "dailyMinutesDown": {
       "2024-09-09": 44,
@@ -47,16 +47,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rsshub.ambler.app.ico",
     "slug": "rss-hub",
     "status": "up",
-    "uptime": "20.70%",
+    "uptime": "20.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "27.24%",
-    "uptimeYear": "2.16%",
-    "time": 545,
-    "timeDay": 237,
-    "timeWeek": 206,
-    "timeMonth": 379,
-    "timeYear": 540,
+    "uptimeMonth": "30.55%",
+    "uptimeYear": "2.43%",
+    "time": 544,
+    "timeDay": 189,
+    "timeWeek": 209,
+    "timeMonth": 371,
+    "timeYear": 539,
     "dailyMinutesDown": {
       "2025-01-09": 260,
       "2025-01-08": 1440,
@@ -412,8 +412,7 @@
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
-      "2024-01-21": 1440,
-      "2024-01-20": 1440
+      "2024-01-21": 1440
     }
   },
   {
@@ -422,18 +421,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-hub-render",
     "status": "down",
-    "uptime": "19.53%",
+    "uptime": "19.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 169,
-    "timeDay": 333,
-    "timeWeek": 239,
-    "timeMonth": 184,
+    "timeDay": 248,
+    "timeWeek": 240,
+    "timeMonth": 183,
     "timeYear": 172,
     "dailyMinutesDown": {
-      "2025-01-18": 69,
+      "2025-01-19": 76,
+      "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
@@ -796,8 +796,7 @@
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
-      "2024-01-21": 1440,
-      "2024-01-20": 1440
+      "2024-01-21": 1440
     }
   },
   {
@@ -812,9 +811,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 259,
-    "timeDay": 216,
-    "timeWeek": 255,
-    "timeMonth": 249,
+    "timeDay": 282,
+    "timeWeek": 261,
+    "timeMonth": 247,
     "timeYear": 262,
     "dailyMinutesDown": {
       "2024-09-09": 44,
@@ -833,9 +832,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 219,
-    "timeDay": 272,
+    "timeDay": 276,
     "timeWeek": 245,
-    "timeMonth": 192,
+    "timeMonth": 196,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2024-09-10": 46,
@@ -849,18 +848,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/reddit-rss.ambler.app.ico",
     "slug": "reddit-rss",
     "status": "down",
-    "uptime": "46.87%",
+    "uptime": "46.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 464,
-    "timeDay": 417,
-    "timeWeek": 324,
+    "time": 463,
+    "timeDay": 307,
+    "timeWeek": 332,
     "timeMonth": 364,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2025-01-18": 69,
+      "2025-01-19": 76,
+      "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
@@ -1223,8 +1223,7 @@
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
-      "2024-01-21": 1440,
-      "2024-01-20": 1440
+      "2024-01-21": 1440
     }
   },
   {
@@ -1233,18 +1232,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "reddit-rss-render",
     "status": "down",
-    "uptime": "46.88%",
+    "uptime": "46.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 283,
-    "timeDay": 298,
-    "timeWeek": 254,
+    "time": 281,
+    "timeDay": 211,
+    "timeWeek": 234,
     "timeMonth": 203,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2025-01-18": 69,
+      "2025-01-19": 76,
+      "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
@@ -1607,8 +1607,7 @@
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
-      "2024-01-21": 1440,
-      "2024-01-20": 1440
+      "2024-01-21": 1440
     }
   }
 ]
