@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rssbox.ambler.app.ico",
     "slug": "rss-box",
     "status": "down",
-    "uptime": "70.84%",
+    "uptime": "70.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2025-11-27": 629,
+      "2025-11-27": 646,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
@@ -336,18 +336,19 @@
     "url": "$RSSBOX_RENDER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-box-render",
-    "status": "down",
+    "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "98.53%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "98.49%",
     "uptimeYear": "99.29%",
     "time": 1246,
-    "timeDay": 220,
-    "timeWeek": 288,
-    "timeMonth": 2023,
-    "timeYear": 1604,
+    "timeDay": 295,
+    "timeWeek": 296,
+    "timeMonth": 1995,
+    "timeYear": 1602,
     "dailyMinutesDown": {
+      "2025-11-27": 17,
       "2025-11-20": 21,
       "2025-11-14": 107,
       "2025-11-13": 31,
@@ -418,7 +419,7 @@
       "2025-04-23": 27,
       "2025-04-20": 24,
       "2025-04-12": 25,
-      "2025-04-11": 45
+      "2025-04-11": 20
     }
   },
   {
@@ -438,7 +439,7 @@
     "timeMonth": 0,
     "timeYear": 419,
     "dailyMinutesDown": {
-      "2025-11-27": 629,
+      "2025-11-27": 646,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
@@ -813,7 +814,7 @@
     "timeMonth": 235,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2025-11-27": 629,
+      "2025-11-27": 646,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
@@ -1197,7 +1198,7 @@
     "timeMonth": 0,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2025-11-27": 629,
+      "2025-11-27": 646,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
@@ -1618,7 +1619,7 @@
     "timeMonth": 0,
     "timeYear": 423,
     "dailyMinutesDown": {
-      "2025-11-27": 629,
+      "2025-11-27": 646,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
@@ -2002,7 +2003,7 @@
     "timeMonth": 1062,
     "timeYear": 369,
     "dailyMinutesDown": {
-      "2025-11-27": 629,
+      "2025-11-27": 646,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
