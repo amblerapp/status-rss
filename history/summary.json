@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-20": 881,
+      "2026-01-20": 903,
       "2026-01-19": 1440,
       "2026-01-18": 1440,
       "2026-01-17": 1440,
@@ -388,13 +388,13 @@
     "url": "$RSSBOX_RENDER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-box-render",
-    "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "97.36%",
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "97.35%",
     "uptimeWeek": "96.82%",
     "uptimeMonth": "97.82%",
-    "uptimeYear": "99.21%",
-    "time": 1602,
+    "uptimeYear": "99.22%",
+    "time": 1604,
     "timeDay": 4274,
     "timeWeek": 3843,
     "timeMonth": 2252,
@@ -466,7 +466,7 @@
       "2025-07-14": 65,
       "2025-07-11": 21,
       "2025-07-09": 317,
-      "2025-07-08": 859
+      "2025-07-08": 821
     }
   },
   {
@@ -486,7 +486,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-20": 882,
+      "2026-01-20": 903,
       "2026-01-19": 1440,
       "2026-01-18": 1440,
       "2026-01-17": 1440,
@@ -870,7 +870,7 @@
     "timeMonth": 211,
     "timeYear": 206,
     "dailyMinutesDown": {
-      "2026-01-20": 882,
+      "2026-01-20": 903,
       "2026-01-19": 1440,
       "2026-01-18": 1440,
       "2026-01-17": 1440,
@@ -1254,7 +1254,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-20": 882,
+      "2026-01-20": 903,
       "2026-01-19": 1440,
       "2026-01-18": 1440,
       "2026-01-17": 1440,
@@ -1626,17 +1626,17 @@
     "url": "$RSSBRIDGE_RENDER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-bridge-render",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "95.94%",
+    "uptimeDay": "95.92%",
     "uptimeWeek": "98.13%",
     "uptimeMonth": "97.49%",
     "uptimeYear": "99.16%",
     "time": 2126,
-    "timeDay": 4259,
-    "timeWeek": 3439,
-    "timeMonth": 4479,
-    "timeYear": 2478,
+    "timeDay": 3242,
+    "timeWeek": 3236,
+    "timeMonth": 4422,
+    "timeYear": 2475,
     "dailyMinutesDown": {
       "2026-01-20": 58,
       "2026-01-19": 48,
@@ -1704,7 +1704,7 @@
       "2025-07-14": 39,
       "2025-07-10": 40,
       "2025-07-09": 550,
-      "2025-07-08": 923
+      "2025-07-08": 885
     }
   },
   {
@@ -1724,7 +1724,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-20": 882,
+      "2026-01-20": 903,
       "2026-01-19": 1440,
       "2026-01-18": 1440,
       "2026-01-17": 1440,
@@ -2108,7 +2108,7 @@
     "timeMonth": 319,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2026-01-20": 882,
+      "2026-01-20": 903,
       "2026-01-19": 1440,
       "2026-01-18": 1440,
       "2026-01-17": 1440,
