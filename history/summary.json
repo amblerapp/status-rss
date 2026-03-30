@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-30": 479,
+      "2026-03-30": 557,
       "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
@@ -388,19 +388,19 @@
     "url": "$RSSBOX_RENDER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-box-render",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "90.39%",
-    "uptimeWeek": "96.96%",
-    "uptimeMonth": "96.57%",
+    "uptimeDay": "90.20%",
+    "uptimeWeek": "96.93%",
+    "uptimeMonth": "96.56%",
     "uptimeYear": "99.01%",
-    "time": 2226,
+    "time": 2228,
     "timeDay": 1549,
     "timeWeek": 2455,
     "timeMonth": 3823,
     "timeYear": 2568,
     "dailyMinutesDown": {
-      "2026-03-30": 110,
+      "2026-03-30": 113,
       "2026-03-29": 29,
       "2026-03-26": 169,
       "2026-03-23": 82,
@@ -466,7 +466,7 @@
       "2025-12-14": 43,
       "2025-12-12": 57,
       "2025-12-11": 79,
-      "2025-12-10": 38
+      "2025-12-10": 18
     }
   },
   {
@@ -475,7 +475,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rsshub.ambler.app.ico",
     "slug": "rss-hub",
     "status": "down",
-    "uptime": "13.24%",
+    "uptime": "13.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -486,7 +486,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-30": 479,
+      "2026-03-30": 557,
       "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
@@ -870,7 +870,7 @@
     "timeMonth": 199,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2026-03-30": 479,
+      "2026-03-30": 557,
       "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
@@ -1243,7 +1243,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rssbridge.ambler.app.ico",
     "slug": "rss-bridge",
     "status": "down",
-    "uptime": "63.55%",
+    "uptime": "63.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1254,7 +1254,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-30": 479,
+      "2026-03-30": 557,
       "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
@@ -1626,19 +1626,19 @@
     "url": "$RSSBRIDGE_RENDER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-bridge-render",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "90.57%",
-    "uptimeWeek": "98.65%",
+    "uptimeDay": "90.47%",
+    "uptimeWeek": "98.64%",
     "uptimeMonth": "98.16%",
-    "uptimeYear": "99.21%",
-    "time": 2784,
+    "uptimeYear": "99.22%",
+    "time": 2785,
     "timeDay": 9083,
     "timeWeek": 3207,
     "timeMonth": 4996,
     "timeYear": 3166,
     "dailyMinutesDown": {
-      "2026-03-30": 109,
+      "2026-03-30": 110,
       "2026-03-29": 27,
       "2026-03-21": 59,
       "2026-03-20": 39,
@@ -1699,7 +1699,7 @@
       "2025-12-14": 15,
       "2025-12-13": 18,
       "2025-12-12": 57,
-      "2025-12-11": 132
+      "2025-12-11": 92
     }
   },
   {
@@ -1719,7 +1719,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-30": 479,
+      "2026-03-30": 557,
       "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
@@ -2103,7 +2103,7 @@
     "timeMonth": 344,
     "timeYear": 383,
     "dailyMinutesDown": {
-      "2026-03-30": 479,
+      "2026-03-30": 557,
       "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
