@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rssbox.ambler.app.ico",
     "slug": "rss-box",
     "status": "down",
-    "uptime": "61.90%",
+    "uptime": "61.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-01": 174,
+      "2026-05-01": 405,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
       "2026-04-28": 1440,
@@ -388,18 +388,19 @@
     "url": "$RSSBOX_RENDER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-box-render",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.32%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "98.31%",
     "uptimeMonth": "96.44%",
     "uptimeYear": "98.85%",
-    "time": 2578,
+    "time": 2581,
     "timeDay": 334,
     "timeWeek": 2868,
     "timeMonth": 3895,
     "timeYear": 2810,
     "dailyMinutesDown": {
+      "2026-05-01": 1,
       "2026-04-29": 97,
       "2026-04-26": 33,
       "2026-04-25": 39,
@@ -465,7 +466,7 @@
       "2026-01-18": 24,
       "2026-01-17": 20,
       "2026-01-15": 109,
-      "2026-01-14": 58
+      "2026-01-14": 33
     }
   },
   {
@@ -485,7 +486,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-01": 174,
+      "2026-05-01": 405,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
       "2026-04-28": 1440,
@@ -869,7 +870,7 @@
     "timeMonth": 269,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2026-05-01": 174,
+      "2026-05-01": 405,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
       "2026-04-28": 1440,
@@ -1242,7 +1243,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rssbridge.ambler.app.ico",
     "slug": "rss-bridge",
     "status": "down",
-    "uptime": "61.90%",
+    "uptime": "61.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1253,7 +1254,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-01": 175,
+      "2026-05-01": 405,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
       "2026-04-28": 1440,
@@ -1635,7 +1636,7 @@
     "timeDay": 355,
     "timeWeek": 5485,
     "timeMonth": 4104,
-    "timeYear": 3457,
+    "timeYear": 3459,
     "dailyMinutesDown": {
       "2026-04-29": 130,
       "2026-04-28": 56,
@@ -1722,7 +1723,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-01": 175,
+      "2026-05-01": 405,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
       "2026-04-28": 1440,
@@ -2095,7 +2096,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "reddit-rss-render",
     "status": "down",
-    "uptime": "28.99%",
+    "uptime": "28.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -2106,7 +2107,7 @@
     "timeMonth": 329,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2026-05-01": 175,
+      "2026-05-01": 405,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
       "2026-04-28": 1440,
