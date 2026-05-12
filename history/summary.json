@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rssbox.ambler.app.ico",
     "slug": "rss-box",
     "status": "down",
-    "uptime": "61.40%",
+    "uptime": "61.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-11": 178,
+      "2026-05-12": 170,
+      "2026-05-11": 1440,
       "2026-05-10": 1440,
       "2026-05-09": 1440,
       "2026-05-08": 1440,
@@ -379,8 +380,7 @@
       "2025-05-16": 1440,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
-      "2025-05-13": 1440,
-      "2025-05-12": 1440
+      "2025-05-13": 1440
     }
   },
   {
@@ -391,14 +391,14 @@
     "status": "up",
     "uptime": "99.64%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.63%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "97.74%",
     "uptimeYear": "98.79%",
-    "time": 2586,
-    "timeDay": 251,
-    "timeWeek": 1441,
-    "timeMonth": 2070,
-    "timeYear": 2805,
+    "time": 2583,
+    "timeDay": 125,
+    "timeWeek": 196,
+    "timeMonth": 2067,
+    "timeYear": 2804,
     "dailyMinutesDown": {
       "2026-05-04": 138,
       "2026-05-01": 203,
@@ -475,18 +475,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rsshub.ambler.app.ico",
     "slug": "rss-hub",
     "status": "down",
-    "uptime": "12.79%",
+    "uptime": "12.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 338,
+    "time": 331,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-11": 178,
+      "2026-05-12": 170,
+      "2026-05-11": 1440,
       "2026-05-10": 1440,
       "2026-05-09": 1440,
       "2026-05-08": 1440,
@@ -849,8 +850,7 @@
       "2025-05-16": 1440,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
-      "2025-05-13": 1440,
-      "2025-05-12": 1440
+      "2025-05-13": 1440
     }
   },
   {
@@ -859,18 +859,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-hub-render",
     "status": "down",
-    "uptime": "11.98%",
+    "uptime": "11.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 208,
-    "timeDay": 145,
-    "timeWeek": 161,
-    "timeMonth": 219,
-    "timeYear": 213,
+    "timeDay": 49,
+    "timeWeek": 120,
+    "timeMonth": 216,
+    "timeYear": 212,
     "dailyMinutesDown": {
-      "2026-05-11": 178,
+      "2026-05-12": 170,
+      "2026-05-11": 1440,
       "2026-05-10": 1440,
       "2026-05-09": 1440,
       "2026-05-08": 1440,
@@ -1233,8 +1234,7 @@
       "2025-05-16": 1440,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
-      "2025-05-13": 1440,
-      "2025-05-12": 1440
+      "2025-05-13": 1440
     }
   },
   {
@@ -1243,18 +1243,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rssbridge.ambler.app.ico",
     "slug": "rss-bridge",
     "status": "down",
-    "uptime": "61.40%",
+    "uptime": "61.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 250,
+    "time": 251,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-11": 178,
+      "2026-05-12": 170,
+      "2026-05-11": 1440,
       "2026-05-10": 1440,
       "2026-05-09": 1440,
       "2026-05-08": 1440,
@@ -1617,8 +1618,7 @@
       "2025-05-16": 1440,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
-      "2025-05-13": 1440,
-      "2025-05-12": 1440
+      "2025-05-13": 1440
     }
   },
   {
@@ -1632,11 +1632,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "99.06%",
-    "time": 3197,
-    "timeDay": 359,
-    "timeWeek": 214,
-    "timeMonth": 2629,
-    "timeYear": 3417,
+    "time": 3196,
+    "timeDay": 112,
+    "timeWeek": 201,
+    "timeMonth": 2626,
+    "timeYear": 3416,
     "dailyMinutesDown": {
       "2026-04-29": 130,
       "2026-04-28": 56,
@@ -1712,18 +1712,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/reddit-rss.ambler.app.ico",
     "slug": "reddit-rss",
     "status": "down",
-    "uptime": "28.75%",
+    "uptime": "28.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 368,
+    "time": 357,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-11": 178,
+      "2026-05-12": 170,
+      "2026-05-11": 1440,
       "2026-05-10": 1440,
       "2026-05-09": 1440,
       "2026-05-08": 1440,
@@ -2086,8 +2087,7 @@
       "2025-05-16": 1440,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
-      "2025-05-13": 1440,
-      "2025-05-12": 1440
+      "2025-05-13": 1440
     }
   },
   {
@@ -2096,18 +2096,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "reddit-rss-render",
     "status": "down",
-    "uptime": "28.75%",
+    "uptime": "28.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 362,
-    "timeDay": 256,
-    "timeWeek": 205,
-    "timeMonth": 288,
-    "timeYear": 383,
+    "timeDay": 81,
+    "timeWeek": 174,
+    "timeMonth": 282,
+    "timeYear": 381,
     "dailyMinutesDown": {
-      "2026-05-11": 178,
+      "2026-05-12": 170,
+      "2026-05-11": 1440,
       "2026-05-10": 1440,
       "2026-05-09": 1440,
       "2026-05-08": 1440,
@@ -2470,8 +2471,7 @@
       "2025-05-16": 1440,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
-      "2025-05-13": 1440,
-      "2025-05-12": 1440
+      "2025-05-13": 1440
     }
   }
 ]
