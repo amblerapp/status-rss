@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-01": 21,
+      "2026-07-01": 220,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
@@ -390,16 +390,17 @@
     "slug": "rss-box-render",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "98.67%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.39%",
+    "uptimeYear": "98.66%",
     "time": 2834,
     "timeDay": 35372,
     "timeWeek": 5250,
     "timeMonth": 2648,
     "timeYear": 2819,
     "dailyMinutesDown": {
+      "2026-01-19": 72,
       "2026-01-20": 75,
       "2026-01-21": 29,
       "2026-01-22": 35,
@@ -468,8 +469,7 @@
       "2026-05-21": 65,
       "2026-05-26": 146,
       "2026-05-27": 103,
-      "2026-06-07": 267,
-      "2026-07-01": 5
+      "2026-06-07": 267
     }
   },
   {
@@ -489,7 +489,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-01": 21,
+      "2026-07-01": 220,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
@@ -862,7 +862,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-hub-render",
     "status": "down",
-    "uptime": "11.51%",
+    "uptime": "11.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -873,7 +873,7 @@
     "timeMonth": 140,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2026-07-01": 21,
+      "2026-07-01": 220,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
@@ -1257,7 +1257,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-01": 21,
+      "2026-07-01": 220,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
@@ -1730,7 +1730,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-01": 21,
+      "2026-07-01": 221,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
@@ -2103,7 +2103,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "reddit-rss-render",
     "status": "down",
-    "uptime": "27.62%",
+    "uptime": "27.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -2114,7 +2114,7 @@
     "timeMonth": 213,
     "timeYear": 361,
     "dailyMinutesDown": {
-      "2026-07-01": 21,
+      "2026-07-01": 221,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
