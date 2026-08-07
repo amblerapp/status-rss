@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-07": 738,
+      "2026-08-07": 814,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
       "2026-08-04": 1440,
@@ -489,7 +489,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-07": 738,
+      "2026-08-07": 815,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
       "2026-08-04": 1440,
@@ -873,7 +873,7 @@
     "timeMonth": 166,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2026-08-07": 738,
+      "2026-08-07": 815,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
       "2026-08-04": 1440,
@@ -1257,7 +1257,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-07": 738,
+      "2026-08-07": 815,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
       "2026-08-04": 1440,
@@ -1629,17 +1629,17 @@
     "url": "$RSSBRIDGE_RENDER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-bridge-render",
-    "status": "down",
+    "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "98.91%",
+    "uptimeDay": "94.69%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "98.90%",
     "time": 3134,
-    "timeDay": 191,
-    "timeWeek": 213,
-    "timeMonth": 950,
-    "timeYear": 3280,
+    "timeDay": 270,
+    "timeWeek": 230,
+    "timeMonth": 932,
+    "timeYear": 3275,
     "dailyMinutesDown": {
       "2025-12-27": 47,
       "2025-12-28": 17,
@@ -1710,7 +1710,7 @@
       "2026-06-15": 345,
       "2026-06-24": 132,
       "2026-07-19": 73,
-      "2026-08-07": 1
+      "2026-08-07": 76
     }
   },
   {
@@ -1730,7 +1730,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-07": 738,
+      "2026-08-07": 815,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
       "2026-08-04": 1440,
@@ -2103,7 +2103,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "reddit-rss-render",
     "status": "down",
-    "uptime": "26.84%",
+    "uptime": "26.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2114,7 +2114,7 @@
     "timeMonth": 200,
     "timeYear": 348,
     "dailyMinutesDown": {
-      "2026-08-07": 738,
+      "2026-08-07": 815,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
       "2026-08-04": 1440,
