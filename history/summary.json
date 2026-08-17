@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rssbox.ambler.app.ico",
     "slug": "rss-box",
     "status": "down",
-    "uptime": "56.89%",
+    "uptime": "56.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-17": 394,
+      "2026-08-17": 458,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -388,17 +388,17 @@
     "url": "$RSSBOX_RENDER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-box-render",
-    "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "98.67%",
-    "time": 2741,
-    "timeDay": 310,
-    "timeWeek": 178,
-    "timeMonth": 2024,
-    "timeYear": 2816,
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "95.61%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "98.65%",
+    "time": 2755,
+    "timeDay": 10629,
+    "timeWeek": 3633,
+    "timeMonth": 2859,
+    "timeYear": 2864,
     "dailyMinutesDown": {
       "2026-01-20": 37,
       "2026-01-21": 29,
@@ -470,7 +470,7 @@
       "2026-05-27": 103,
       "2026-06-07": 267,
       "2026-07-19": 73,
-      "2026-08-17": 2
+      "2026-08-17": 63
     }
   },
   {
@@ -490,7 +490,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-17": 394,
+      "2026-08-17": 458,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -874,7 +874,7 @@
     "timeMonth": 160,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2026-08-17": 394,
+      "2026-08-17": 458,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -1258,7 +1258,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-17": 394,
+      "2026-08-17": 458,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -1731,7 +1731,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-17": 395,
+      "2026-08-17": 458,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -2115,7 +2115,7 @@
     "timeMonth": 187,
     "timeYear": 345,
     "dailyMinutesDown": {
-      "2026-08-17": 395,
+      "2026-08-17": 458,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
